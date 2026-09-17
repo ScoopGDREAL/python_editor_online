@@ -1,0 +1,22 @@
+textarea {
+    resize: none;
+}
+
+
+#script_editor {
+    position: relative;
+}
+
+#code_editor {
+    position: relative;
+
+    width: 80vw;
+    height: 60vh;
+}
+
+#code_output {
+    position: relative;
+
+    width: 80vw;
+    height: 30vh;
+}
